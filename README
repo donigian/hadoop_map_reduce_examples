@@ -4,5 +4,6 @@ There are 3 examples:
 1. Letter Count: a variation of the word count example listing number of appearences of each letter in three documents.
 2. Job Salary: lists the cities in order of popularity according to the number of people employed.
 3. Titanic Data Set: lists the number of people at various ages who died on the Titanic.
+4. A map/reduce function written with Python Disco library.
 
 The data sets are sourced from Kaggle & CS246 Stanford Data Mining Course.
