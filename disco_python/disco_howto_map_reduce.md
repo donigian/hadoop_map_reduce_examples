@@ -6,3 +6,5 @@ ddfs chunk data:bigtxt ./bigfile.txt
 ddfs blobs data:bigtxt
 
 ddfs xcat data:bigtxt | less
+
+
